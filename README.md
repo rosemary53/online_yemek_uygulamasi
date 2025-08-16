@@ -24,4 +24,4 @@
 # Kullanılan  Teknolojiler
   Dil : Dart
   Framework : Flutter
-  Paketler :   flutter_bloc,dio,path,sqflite,
+  Paketler :   flutter_bloc,dio,path,sqflite
